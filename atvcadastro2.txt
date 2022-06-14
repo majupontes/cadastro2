@@ -1,0 +1,24 @@
+ALGORITMO: cadastro
+
+Variaveis:
+nome, endereco, cidade, CPF, RG, peso, renda: caracter
+	
+INICIO
+	escreva (informe seu nome: ")
+	leia (nome)
+	escreva ("informe seu endereco: ")
+	leia (endereco)
+	escreva ("informe sua cidade: ")
+	leia (cidade)
+	escreva ("informe seu CPF: ")
+	leia (CPF)
+	escreva ("informe seu RG: ")
+	leia (RG)
+	escreva ("informe o nome do seu pai: ")
+	leia (nome)
+	escreva ("informe o nome da sua mae: ")
+	leia (nome)
+	escreva ("informe seu peso: ")
+	leia (peso)
+	escreva ("informe sua renda bruta: ")
+	leia (renda)
